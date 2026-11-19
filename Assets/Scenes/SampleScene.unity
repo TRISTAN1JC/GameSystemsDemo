@@ -543,7 +543,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 467f47394ca10964eb18493ea4e1c99d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResourceManager
-  startingResources: 10000
+  startingResources: 1500
   resourcesText: {fileID: 1526947618}
 --- !u!1 &265142204
 GameObject:
