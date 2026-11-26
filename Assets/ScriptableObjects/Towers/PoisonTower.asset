@@ -15,8 +15,8 @@ MonoBehaviour:
   displayName: Poison Tower
   prefab: {fileID: 9215399825038353361, guid: 3f5f8d9f99bc7b94c83087d4c089d07e, type: 3}
   projectilePrefab: {fileID: 2092777232227346601, guid: 9aafb6cfde87f0341b3152d4145e07ca, type: 3}
-  cost: 150
-  sellValue: 75
+  cost: 110
+  sellValue: 80
   range: 5
   fireRate: 5
   damage: 0

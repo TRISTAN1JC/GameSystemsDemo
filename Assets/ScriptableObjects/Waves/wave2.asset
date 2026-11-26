@@ -13,53 +13,5 @@ MonoBehaviour:
   m_Name: wave2
   m_EditorClassIdentifier: Assembly-CSharp::WaveData
   spawns:
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
-    delayAfterSpawn: 1
-  - enemy: {fileID: 11400000, guid: 36ed6c965b7de0d42b9e1f4d1f6e073a, type: 2}
+  - enemy: {fileID: 11400000, guid: a25d5de58a205c14b9707f75ce37843b, type: 2}
     delayAfterSpawn: 1
